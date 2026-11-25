@@ -1,4 +1,4 @@
-# EcoSort – AI-Powered Waste Management & Community Cleaning Platform
+# EcoSort – AI-Powered Waste Management & Community Cleaning Platform https://ecosort-v1.vercel.app/
 
 A full-stack Next.js application that helps people manage waste responsibly, learn recycling, organize community cleaning activities, collaborate with nearby people, and earn reward points for environmental contributions.
 
